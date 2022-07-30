@@ -22,7 +22,7 @@ options_day_time = ['Dawn','Morning','Afternoon','Evening']
 
 options_vehicle_type = ['Automobile', 'Bajaj', 'Bicycle', 'Lorry', 'Motorcycle', 'Other', 'Pick up upto 10Q', 'Public', 'Ridden horse', 'Special vehicle', 'Stationwagen', 'Taxi', 'Turbo']
 
-options_accident_area = ['Church areas', 'Hospital areas', 'Industrial areas', 'Market areas', 'Office areas', 'Office areas', 'Other', 'Outside rural areas', 'Recreational areas', 'Recreational areas', 'Residential areas', 'Rural village areas', 'School areas']
+options_accident_area = ['Church areas', 'Hospital areas', 'Industrial areas', 'Market areas', 'Office areas', 'Other', 'Outside rural areas', 'Recreational areas', 'Residential areas', 'Rural village areas', 'School areas']
 
 options_driving_exp = ['1-2yr', '2-5yr', '5-10yr', 'Above 10yr', 'Below 1yr', 'No Licence']
 
